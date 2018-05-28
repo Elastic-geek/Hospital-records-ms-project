@@ -31,7 +31,7 @@ public class PatientSearch extends JFrame implements ActionListener {
 
         super("Searching From Database");
 
-        lb5 = new JLabel("Enter Patient Name:");
+        lb5 = new JLabel("Enter Name:");
 
         lb5.setBounds(20, 20, 100, 20);
 
